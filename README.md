@@ -212,7 +212,7 @@ Repo forked from the V3 made by:
 
 V4 made by:
  * kingsely ikejemba, [kinecon12](https://github.com/kinecon12)
- * Faith Makata, [sungnga](https://github.com/ogechimak)
+ * Faith Makata, [ogechimak](https://github.com/ogechimak)
 
 ## License
 
